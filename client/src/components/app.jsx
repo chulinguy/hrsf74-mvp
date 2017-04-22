@@ -1,8 +1,9 @@
 //import Go from 'gojs';
 import React from 'react';
+import _ from 'underscore';
 
 import Header from './Header';
-import MenuImg from './MenuImg'; 
+import Menu from './Menu'; 
 import moves from './moves.json';
 
 class App extends React.Component {
@@ -10,8 +11,15 @@ class App extends React.Component {
     super(props);
 
     this.state = {
-      //TODO: do I need load something here?
+      value: 0
     }
+    this.imgChange = this.imgChange.bind(this);
+  }
+
+  imgChange(){
+    //set the value key of this.state to new value
+    this.setState({value: document.getElementById("menu").value});
+    console.log('imgChange is being invoked, state.value = ', this.state.value)
   }
 
   render() {
@@ -20,7 +28,11 @@ class App extends React.Component {
         <Header />
           <div>
             <hr />
-            <MenuImg moves={moves}/>
+            <Menu moves={moves} imgChange={this.imgChange}/>
+            <hr />
+            <img src={(_.find(moves, (obj) => (obj.id == this.state.value)))['url']} />
+            <hr />
+            
           </div>
       </div>
     )

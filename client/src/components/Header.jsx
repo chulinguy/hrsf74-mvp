@@ -5,14 +5,13 @@ class Header extends React.Component {
     super(props);
   }
 
-  //TODO: refactor to put link on Google driver 
   render() {
     return (
       <div>
         <h1 id='header'> 
           Tango for Dummies 
         </h1>
-        <img src='/client/Tango_for_dummies.jpg' width='60%' height='60%'/>
+        <img src='https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MZGFQeUlMVHpsNVk' width='60%' height='60%'/>
       </div>
     )
   }

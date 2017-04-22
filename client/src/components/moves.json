@@ -1,10 +1,23 @@
 [
   { 
+    "id": 0,
     "name": "welcome",
-    "url": "https://drive.google.com/file/d/0BzybsaJP9M7MYW1TUzRaRzV2OE0/view?usp=sharing"
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MYW1TUzRaRzV2OE0"
   },
    { 
+    "id": 2,
     "name": "parellel_walking",
-    "url": "https://drive.google.com/file/d/0BzybsaJP9M7MNWVFTTRrb282QVU/view?usp=sharing"
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MNWVFTTRrb282QVU"
+  },
+
+  {
+    "id": 4,
+    "name": "ocho",
+    "url": "http://www.virtuar.com/tango/theory/2014/20141008_focho4_sm.png"
+  },
+  {
+    "id": 7,
+    "name": "cruzada",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MOWRGWDNRVW90aVU"
   }
 ]
