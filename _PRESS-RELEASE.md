@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  Tango for Dummies
 
-## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+## Sub-Heading ## 
+  For beginner tango dancers to look up tango terms and build a mental flow chart 
 
-## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+## Summary ## 
+   For beginner tango dancers, figuring out what moves to do can be overwhelming.  Fear not! Tango for Dummies provides a flow chart of what beginners can do to chain moves together and also demo pictures.    
 
 ## Problem ##
-  > Describe the problem your product solves.
+   Beginner tango dancers don't know what tango moves they should look up 
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  Instead of just a basic glossasry list of words, Tango for Dummies shows the terms as a flow chart to allow quick look-ups
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  " Tango is just fancy walking with a partner, to the music. Use Tango for Dummies to accelerate your tango learning!"  
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  The flow chart is on the index page. Click on terms in the flow chart.  
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  "I wish my tango teacher showed me this website".
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  Why not try the site out ? 
