@@ -1,23 +1,51 @@
 [
   { 
     "id": 0,
-    "name": "welcome",
-    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MYW1TUzRaRzV2OE0"
+    "name": "0. Welcome! Pick a different move to show here ...",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MSVlGUC11TWxNUDg"
+  },
+  { 
+    "id": 1,
+    "name": "1. Weight change",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MckpnZmlDdk1kZ1k"
   },
    { 
     "id": 2,
-    "name": "parellel_walking",
+    "name": "2. Parellel walking",
     "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MNWVFTTRrb282QVU"
   },
-
+  {
+    "id": 3,
+    "name": "3. Cross walking",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MSUxzaWdFbjNITjg"
+  },
   {
     "id": 4,
-    "name": "ocho",
-    "url": "http://www.virtuar.com/tango/theory/2014/20141008_focho4_sm.png"
+    "name": "4. Cruzada",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MOWRGWDNRVW90aVU"
+  },
+  {
+    "id": 5,
+    "name": "5. Gancho",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MbWNwcjhFX00wUlE"
+  },
+  {
+    "id": 6,
+    "name": "6. Parada pasada",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MTlBKR2dsZmdaS3M"
   },
   {
     "id": 7,
-    "name": "cruzada",
-    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MOWRGWDNRVW90aVU"
-  }
+    "name": "7. Ocho",
+    "url": "http://www.virtuar.com/tango/theory/2014/20141008_focho4_sm.png"
+  },
+  {
+    "id":8,
+    "name": "8. Giro/Molinete",
+    "url":"https://s-media-cache-ak0.pinimg.com/originals/8f/71/10/8f71102accf5e6eff2cfc67c81d122b1.gif"
+  }, 
+  {
+    "id":9,
+    "name": "9. Rock Step Turn",
+    "url": "https://drive.google.com/uc?export=download&id=0BzybsaJP9M7MRjFZOEllTzZqOUk"}
 ]

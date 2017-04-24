@@ -3,6 +3,7 @@ var app = express();
 var bodyParser = require('body-parser');
 
 var logger = require('./middleware/logger');
+var newMoveHandler= require('./middleware/newMoveHandler');
 
 const PORT = process.env.PORT || 3000;
 const IP = '127.0.0.1';
@@ -19,6 +20,8 @@ app.use('/client', function (req, res, next) {
 app.get('/', (req, res) => {
   res.sendFile(__dirname + '/client/index.html');
 });
+
+app.post('/newMove', newMoveHandler);
 
 //server 
 app.listen(PORT, () => {
