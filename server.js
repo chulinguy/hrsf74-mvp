@@ -21,6 +21,18 @@ app.get('/', (req, res) => {
   res.sendFile(__dirname + '/client/index.html');
 });
 
+app.get('/flowchart', (req, res) => {
+  res.sendFile(__dirname + '/client/flowchart.html');
+});
+
+app.get('/leaders-starter', (req, res) => {
+  res.sendFile(__dirname + '/client/leaders_starter.html');
+});
+
+app.get('/followers-starter', (req, res) => {
+  res.sendFile(__dirname + '/client/followers_starter.html');
+});
+
 app.post('/newMove', newMoveHandler);
 
 //server 

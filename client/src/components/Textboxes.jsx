@@ -24,8 +24,6 @@ class Textboxes extends React.Component{
     return (
       <div>
         <p id='textBoxDesc'>Add your favorite tango move to the library below</p>
-        <br/>
-        <br/>
         <div >
           Technique name: <input type="text" id="boxName" defaultValue="move name here" onChange={this.handleNameChange}/><br/>
           Move picture url: <input type="url" id="boxURL" defaultValue="url here" onChange={this.handleURLChange}/><br/>

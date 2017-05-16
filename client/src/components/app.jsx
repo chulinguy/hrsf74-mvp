@@ -67,8 +67,9 @@ class App extends React.Component {
         <img id='move' src={moves[this.state.value]['url']}/>
         <hr/>
         <Menu id='menu' moves={moves} imgChange={this.imgChange}/>
-        <Textboxes id='textboxes' addAMove={this.addAMove}/>
-      
+        {/*<Textboxes id='textboxes' addAMove={this.addAMove}/>*/}
+        <pre id='moveDesc'>{moves[this.state.value]['description']}</pre>
+        <pre id='moveTips'>{moves[this.state.value]['tips']}</pre>
       </div>
     )
   }
